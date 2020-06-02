@@ -1,0 +1,292 @@
+@-webkit-keyframes zoomBox {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  100% {
+    -webkit-transform: scale(1.06);
+            transform: scale(1.06);
+  }
+}
+@keyframes zoomBox {
+  0% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  100% {
+    -webkit-transform: scale(1.06);
+            transform: scale(1.06);
+  }
+}
+body {
+  width: 100%;
+  font-family: "montserratlight", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6em;
+  background: #FFE;
+  color: #666;
+}
+
+h1 {
+  color: #86baa3;
+  font-size: 3.5em;
+  font-family: "Great Vibes", cursive;
+  line-height: 1.6em;
+}
+
+h2 {
+  font-size: 1.5em;
+  color: #86baa3;
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+h2, h3 {
+  line-height: 1.4em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+header {
+  width: 100%;
+  padding: 5px;
+  line-height: 1.8em;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 4;
+  background: #fff;
+  -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.7);
+          box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.7);
+}
+header .logo {
+  color: #86baa3;
+  font-family: "Great Vibes",cursive;
+  font-size: 2em;
+  width: 54px;
+  height: 54px;
+  line-height: 61px;
+  text-align: center;
+  display: block;
+  border-radius: 50%;
+  border: 2px solid #86baa3;
+  margin: 5px auto 10px;
+}
+header .btn-mobile {
+  width: 50px;
+  display: none;
+  padding: 5px 7px;
+  border-radius: 5px;
+  float: right;
+  border: 2px solid #86baa3;
+}
+header .btn-mobile span {
+  width: 100%;
+  height: 4px;
+  background: #86baa3;
+  display: block;
+  border-radius: 3px;
+  margin: 5px 0;
+}
+header nav {
+  overflow: hidden;
+}
+header .menu {
+  width: 100%;
+  text-align: center;
+}
+header .menu li {
+  display: inline-block;
+  padding: 0 10px;
+}
+header .menu a {
+  display: block;
+  text-transform: uppercase;
+  font-size: 1.2em;
+  color: #7c9479;
+}
+header .menu a:hover {
+  color: #86baa3;
+}
+
+/* main */
+main {
+  margin-top: 104px;
+  overflow: hidden;
+}
+
+a {
+  text-decoration: none;
+  -webkit-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+
+.cropbg-bottom {
+  background: url(../img/cropbg-bottom.png) top no-repeat;
+}
+
+.cropbg-top {
+  background: url(../img/cropbg-top.png) top no-repeat;
+}
+
+.cropbg {
+  background-size: cover;
+  height: 0;
+  padding-bottom: 1.3%;
+  width: 100%;
+  position: relative;
+  z-index: 2;
+}
+
+.container {
+  width: 100%;
+  padding: 0 30px;
+  max-width: 1400px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.row {
+  margin: 0 -15px;
+  overflow: hidden;
+}
+.row .col-6 {
+  width: 50%;
+  float: left;
+  padding: 0 15px;
+}
+.row .col-4 {
+  width: 33.33%;
+  float: left;
+  padding: 0 15px;
+}
+.row .col-8 {
+  width: 66.66%;
+  float: left;
+  padding: 0 15px;
+}
+
+.circle {
+  width: 80px;
+  height: 80px;
+  border-radius: 50px;
+  line-height: 72px;
+  margin: 20px auto 0;
+  font-size: 3em;
+  border: 3px #fff solid;
+  text-align: center;
+  color: #fff;
+}
+
+/* footer */
+footer {
+  text-align: center;
+  padding: 10px 0;
+  font-size: 15px;
+  color: #ecf6e2;
+  background: #86baa3;
+}
+
+@media screen and (max-width: 1370px) {
+  .circle {
+    width: 80px;
+    height: 80px;
+    font-size: 2.4em;
+  }
+}
+@media screen and (max-width: 780px) {
+  .container {
+    padding: 0 20px;
+  }
+
+  h1 {
+    font-size: 3.2em;
+  }
+}
+@media screen and (max-width: 580px) {
+  .container {
+    padding: 0 15px;
+  }
+
+  h1 {
+    font-size: 3em;
+  }
+
+  h2 {
+    font-size: 1.4em;
+  }
+
+  h3 {
+    font-size: 1.2em;
+  }
+
+  h4 {
+    font-size: 1.1em;
+  }
+
+  header {
+    padding: 10px;
+  }
+  header .logo {
+    float: left;
+    margin: 0;
+    font-size: 1.6em;
+    width: 46px;
+    height: 46px;
+    line-height: 50px;
+  }
+  header .btn-mobile {
+    display: block;
+  }
+  header nav {
+    position: fixed;
+    top: 60px;
+    left: 0;
+    width: 100%;
+    height: calc(100vh - 60px);
+    background: rgba(0, 0, 0, 0.4);
+    z-index: 22;
+    visibility: hidden;
+    opacity: 0;
+    -webkit-transition: 0.3s all ease-out;
+    transition: 0.3s all ease-out;
+  }
+  header .menu {
+    padding: 15vh 0 20vh;
+    background: #fff;
+  }
+  header .menu li {
+    display: block;
+    padding: 10px;
+  }
+
+  .open-menu {
+    overflow-y: hidden;
+  }
+  .open-menu header nav {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  main {
+    margin-top: 66px;
+  }
+}
+@media screen and (max-width: 320px) {
+  body {
+    font-size: 14px;
+  }
+
+  h3 {
+    font-size: 1.1em;
+  }
+
+  h4 {
+    font-size: 1em;
+  }
+}

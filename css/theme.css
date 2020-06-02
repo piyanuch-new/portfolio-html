@@ -1,0 +1,124 @@
+@keyframes zoomBox {
+  0% {
+    transform: scale(1); }
+  100% {
+    transform: scale(1.06); } }
+body {
+  width: 100%;
+  font-family: "montserratlight", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6em;
+  background: #FFE;
+  color: #666; }
+
+h1 {
+  color: #86baa3;
+  font-size: 4.5em;
+  font-family: "Great Vibes", cursive;
+  line-height: 1.6em; }
+
+h2 {
+  font-size: 1.6em;
+  color: #86baa3; }
+
+h3 {
+  font-size: 1.3em; }
+
+h2, h3 {
+  line-height: 1.5em; }
+
+h4 {
+  font-size: 1.2em; }
+
+header {
+  width: 100%;
+  padding: 5px;
+  line-height: 1.8em;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 4;
+  background: #fff;
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.7); }
+
+.menu {
+  width: 100%;
+  float: right;
+  text-align: center; }
+  .menu a {
+    display: inline-block;
+    padding: 0 10px;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    color: #7c9479; }
+  .menu a:hover {
+    color: #86baa3; }
+
+/* main */
+main {
+  margin-top: 40px;
+  overflow: hidden; }
+
+a {
+  text-decoration: none;
+  transition: all 0.3s ease-out; }
+
+.container {
+  width: 100%;
+  padding: 0 30px;
+  max-width: 1400px;
+  overflow: hidden;
+  margin: 0 auto; }
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 1;
+  transform: translate(-50%, -50%); }
+
+.box-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 2;
+  transform: translate(-50%, -50%); }
+
+.row {
+  margin: 0 -15px;
+  overflow: hidden; }
+
+.row .col-6 {
+  width: 50%;
+  float: left;
+  padding: 0 15px; }
+
+.row .col-4 {
+  width: 33.33%;
+  float: left;
+  padding: 0 15px; }
+
+.row .col-8 {
+  width: 66.66%;
+  float: left;
+  padding: 0 15px; }
+
+/* footer */
+footer {
+  text-align: center;
+  padding: 10px 0;
+  font-size: 15px;
+  color: #ecf6e2;
+  background: #86baa3; }
+
+@media screen and (max-width: 1370px) {
+  h1 {
+    font-size: 4em;
+    line-height: 1.6em; } }
+@media screen and (max-width: 780px) {
+  .container {
+    padding: 0 20px; } }
+@media screen and (max-width: 580px) {
+  .container {
+    padding: 0 15px; } }

@@ -1,0 +1,123 @@
+@import "_color";
+/* skill */
+.skill{
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+	z-index: 1;
+	text-align: center;
+	background: #fff;
+	background: $color-light;
+	padding: 4% 0;
+	.circle{
+		color: $color-primary;
+		border: 3px $color-primary solid;
+	}
+}
+.dt-skill {
+	float: left;
+	width: 33.33%;
+	text-align: left;
+	padding: 40px 80px 50px;
+}
+.dt-skill h2 {
+	text-align: center;
+	margin-bottom: 20px;
+}
+.txt-dtskill{
+	margin-bottom: 40px;
+	text-align: center;
+	min-height: 4.8em;
+}
+.row-skill {
+	width: 100%;
+	float: left;
+	padding: 0 60px;
+	line-height: 34px;
+}
+.name-skill {
+	float: left;
+}
+.star-skill {
+	float: right;
+	color: #86baa3;
+}
+.star-skill i{
+	margin: 0 3px;
+}
+.center-skill{
+	width: 100%;
+}
+@media screen and ( max-width:1800px ) {
+	.row-skill {
+		padding: 0 40px;
+	}
+}
+
+@media screen and ( max-width:1440px ) {
+	.dt-skill {
+		padding: 25px 50px 40px;
+	}
+	.txt-dtskill{
+		min-height: 6.4em;
+	}
+}
+@media screen and ( max-width:1370px ) {
+	.row-skill {
+		padding: 0 6%;
+	}
+	.dt-skill {
+		padding: 25px 20px 40px;
+	}
+}
+@media screen and ( max-width:1024px ) {
+	.dt-skill {
+		width: 100%;
+		padding: 20px 20% 30px;
+		h2 {
+			margin-bottom: 20px;
+		}
+	}
+	.txt-dtskill{
+		min-height: auto;
+		margin-bottom: 25px;
+	}
+	.row-skill {
+		padding: 0;
+		float: none;
+		width: auto;
+		display: inline;
+		color: #86baa3;
+		line-height: 24px;
+		font-size: 0.9em;
+	}
+	.star-skill {
+		display: none;
+	}
+	.name-skill{
+		float: none;
+		display: inline-block;
+		padding-right: 4px;
+	}
+	.name-skill:after {
+		content: ",";
+	}
+	.row-skill:last-child .name-skill:after {
+		content: "";
+	}
+	.center-skill {
+		width: auto;
+		clear: both;
+		overflow: hidden;
+		text-align: center;
+	}
+}
+
+@media screen and (max-width: 580px) {
+	.dt-skill{
+		padding: 40px 25px;
+	}
+	.txt-dtskill {
+		margin-bottom: 15px;
+	}
+}

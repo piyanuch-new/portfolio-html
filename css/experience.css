@@ -1,0 +1,67 @@
+.bx-education,
+.bx-job, .bx-contact {
+  height: auto;
+  padding: 4% 0;
+  text-align: center;
+  color: #ecf6e2;
+  z-index: 2;
+  position: relative;
+}
+
+.bx-job, .bx-contact {
+  background: #86baa3;
+}
+.bx-job h1, .bx-job h2, .bx-contact h1, .bx-contact h2 {
+  color: #fff;
+}
+
+.bx-education {
+  color: #666;
+  padding-bottom: 5%;
+}
+.bx-education .circle {
+  color: #86baa3;
+  border-color: #86baa3;
+}
+
+.job {
+  width: 49%;
+  padding: 40px 40px 50px;
+  display: inline-block;
+}
+.job h3 {
+  margin-bottom: 20px;
+}
+.job:nth-child(2) {
+  font-size: 1.2em;
+  width: 100%;
+}
+
+.work h3 {
+  margin-bottom: 0;
+}
+
+.work a {
+  color: #000;
+}
+
+.work .job {
+  padding: 40px 20px 0;
+}
+
+@media screen and (max-width: 580px) {
+  .bx-education {
+    padding-bottom: 30px;
+  }
+
+  .job {
+    padding: 40px 0;
+    width: 100%;
+  }
+  .job:nth-child(2) {
+    font-size: 1em;
+  }
+  .job h3 {
+    margin-bottom: 10px;
+  }
+}

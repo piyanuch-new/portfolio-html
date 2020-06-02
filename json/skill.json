@@ -1,0 +1,151 @@
+[{
+  "type": "Coding",
+  "detail": [
+    {
+      "name": "HTML/ HTML5",
+      "skill": "5"
+    },
+    {
+      "name": "CSS/ CSS3",
+      "skill": "5"
+    },
+    {
+      "name": "SCSS",
+      "skill": "5"
+    },
+    {
+      "name": "jQuery",
+      "skill": "5"
+    },
+    {
+      "name": "Bootstap",
+      "skill": "5"
+    },
+    {
+      "name": "json/AJAX",
+      "skill": "5"
+    },
+    {
+      "name": "Gulp.js",
+      "skill": "4"
+    },
+    {
+      "name": "WordPress",
+      "skill": "4"
+    },
+    {
+      "name": "PHP",
+      "skill": "4"
+    },
+    {
+      "name": "Laravel",
+      "skill": "4"
+    },
+    {
+      "name": "Node.js",
+      "skill": "3"
+    },
+    {
+      "name": "Actionscript 2.0 & 3.0",
+      "skill": "3"
+    },
+    {
+      "name": "Vue.Js",
+      "skill": "3"
+    },
+    {
+      "name": "MySQL",
+      "skill": "3"
+    },
+    {
+      "name": "vuetifyjs",
+      "skill": "2"
+    },
+    {
+      "name": "TypeScript",
+      "skill": "1"
+    }
+  ]
+},
+{
+  "type": "Graphic",
+  "detail": [
+    {
+      "name": "Banner (jpg, gif, GDG)",
+      "skill": "4"
+    },
+    {
+      "name": "Social Advertising",
+      "skill": "4"
+    },
+    {
+      "name": "Character Design",
+      "skill": "4"
+    },
+    {
+      "name": "Video edit",
+      "skill": "4"
+    },
+    {
+      "name": "Motion Animate",
+      "skill": "3"
+    },
+    {
+      "name": "Infographic",
+      "skill": "3.5"
+    },
+    {
+      "name": "Printing Advertising",
+      "skill": "3.5"
+    },
+    {
+      "name": "Webdesign",
+      "skill": "3"
+    },
+    {
+      "name": "Icon Design",
+      "skill": "3"
+    },
+    {
+      "name": "Logo Design",
+      "skill": "3"
+    }
+  ]
+},
+{
+  "type": "Program",
+  "detail": [
+    {
+      "name": "Adobe Photoshop",
+      "skill": "5"
+    },
+    {
+      "name": "Adobe XD",
+      "skill": "3.5"
+    },
+    {
+      "name": "Bitbucket",
+      "skill": "4"
+    },
+    {
+      "name": "github",
+      "skill": "3"
+    },
+    {
+      "name": "Adobe Iillustrator",
+      "skill": "4"
+    },
+    {
+      "name": "Adobe Flash",
+      "skill": "3.5"
+    },
+    {
+      "name": "Adobe Aftereffect",
+      "skill": "2.5"
+    },
+    {
+      "name": "Adobe Premiere Pro",
+      "skill": "3"
+    }
+  ]
+}]

@@ -1,0 +1,217 @@
+{  
+  "coding": [
+    {"name": "light building 2020 unilamp",
+      "company": "FREELANCE",
+      "link": "http://light-building2020.unilamp.co.th/",
+      "title": "light-building2020.unilamp.co.th",
+      "type": "Web Paralax Responsive",
+      "detail": "HTML5 / CSS3 / jQuery",
+      "year": "",
+      "img": "unilamp"
+    },
+    {"name": "Syndacast (THAILAND)",
+      "company": "Syndacast",
+      "link": "https://www.syndacast.com/",
+      "title": "syndacast.com",
+      "type": "Web Responsive WordPress",
+      "detail": "HTML5 / SCSS / PHP / jQuery / WordPress / MySQL / git",
+      "year": "",
+      "img": "syndacast"
+    },
+    {"name": "Maya Thailand",
+      "company": "Syndacast (THAILAND)",
+      "link": "https://mayathailand.com/",
+      "title": "mayathailand.com",
+      "type": "Web Responsive WordPress",
+      "detail": "HTML5 / CSS3 / PHP / jQuery / WordPress",
+      "year": "",
+      "img": "maya"
+    },
+    {"name": "Jaras Restaurant",
+      "company": "Syndacast (THAILAND)",
+      "link": "http://demo-jaras.syndacast-hub.com/",
+      "title": "demo-jaras.syndacast-hub.com",
+      "type": "Web Paralax Responsive WordPress",
+      "detail": "HTML5 / SCSS / PHP / AJAX / JSON / jQuery / WordPress / MySQL",
+      "year": "",
+      "img": "jaras"
+    },
+    {
+      "name": "Eastern Star PCL.",
+      "company": "FREELANCE",
+      "link": "http://www.estarpcl.com/",
+      "title": "www.estarpcl.com",
+      "type": "Web Responsive",
+      "detail": "HTML5 / CSS3 / PHP / jQuery / Bootstap",
+      "year": "",
+      "img": "estarpcls"
+    },
+    {
+      "name": "Sky-cliff",
+      "company": "IC Web",
+      "link": "http://www.sky-cliff.com/",
+      "title": "www.sky-cliff.com",
+      "type": "Web Responsive",
+      "detail": "HTML5 / CSS3 / PHP / jQuery / Bootstap",
+      "year": "",
+      "img": "skycliff"
+    },
+    {
+      "name": "Moonlight Resort",
+      "company": "FREELANCE",
+      "link": "http://www.moonlight-resort.com/",
+      "title": "www.moonlight-resort.coma",
+      "type": "Web Responsive",
+      "detail": "HTML5 / CSS3 / jQuery / Bootstap",
+      "year": "",
+      "img": "moonlight"
+    },
+    {
+      "name": "Isuzu-tis",
+      "company": "DAI-ICHI KIKAKU (THAILAND)",
+      "link": "http://isuzu-tis.com",
+      "title": "isuzu-tis.com",
+      "type": "Web Responsive",
+      "detail": "HTML5 / CSS3 / jQuery / Bootstap",
+      "year": "",
+      "img": "isuzu-tis"
+    },
+    {
+      "name": "Wolf Coworking",
+      "company": "FREELANCE",
+      "link": "http://wolfcoworking.com/",
+      "title": "wolfcoworking.com",
+      "type": "Web Responsive",
+      "detail": "HTML5 / CSS3 / PHP / jQuery / Bootstap",
+      "year": "",
+      "img": "wolf"
+    },
+    {
+      "name": "KSL Group",
+      "company": "FREELANCE",
+      "link": "http://www.kslgroup.com/th/",
+      "title": "www.kslgroup.com",
+      "type": "Web Responsive",
+      "detail": "HTML5 / CSS3 / PHP / jQuery / Bootstap",
+      "year": "",
+      "img": "ksl"
+    },
+    {
+      "name": "ShopCH",
+      "company": "FREELANCE",
+      "link": "http://shopch.in.th",
+      "title": "shopch.in.th",
+      "type": "Web Responsive",
+      "detail": "HTML5 / CSS3 / PHP / jQuery / Bootstap",
+      "year": "",
+      "img": "shopch"
+    },
+    {
+      "name": "Scentimental",
+      "company": "FREELANCE",
+      "link": "http://www.scentimental.co.th/",
+      "title": "www.scentimental.co.th",
+      "type": "Web Responsive",
+      "detail": "HTML5 / CSS3 / PHP / jQuery / Bootstap",
+      "year": "",
+      "img": "scentimental"
+    },
+    {"name": "Halykoo",
+      "company": "FREELANCE",
+      "link": "https://www.halykoo-thailand.com/",
+      "title": "halykoo-thailand.com",
+      "type": "Web Responsive",
+      "detail": "HTML5 / CSS3 / jQuery",
+      "year": "",
+      "img": "halykoo"
+    },
+    {
+      "name": "Isuzu Photocontest",
+      "company": "DAI-ICHI KIKAKU (THAILAND)",
+      "link": "http://www.isuzuphotocontest.com/isuzu60th",
+      "title": "www.isuzuphotocontest.com",
+      "type": "Microsite",
+      "detail": "HTML5 / CSS3 / jQuery / Bootstap",
+      "year": "",
+      "img": "isuzu-photocontest"
+    },
+    {
+      "name": "MCP feedback",
+      "company": "DAI-ICHI KIKAKU (THAILAND)",
+      "link": "http://mcpfeedback.gooddigi.in.th/#!/",
+      "title": "",
+      "type": "Web App open on ipad",
+      "detail": "HTML5 / CSS3 / jQuery / AngularJs",
+      "year": "",
+      "img": "mcp-feedback"
+    },
+    {
+      "name": "Customer Satisfaction Survey",
+      "company": "DAI-ICHI KIKAKU (THAILAND)",
+      "link": "http://demo.gooddigi.in.th/gis-mindvoice_fe_html/",
+      "title": "mindvoice",
+      "type": "Web App open on mobile",
+      "detail": "HTML5 / CSS3 / jQuery",
+      "year": "",
+      "img": "mindvoice"
+    },
+    {
+      "name": "Carlsberg Feeling",
+      "company": "360 Innovative",
+      "link": "portfolio/carlsberglandingpage/",
+      "title": "carlsbergfeeling",
+      "type": "Landing Page",
+      "detail": "HTML5 / CSS3",
+      "year": "",
+      "img": "skycliff"
+    }
+  ],
+  "design": [
+    {
+      "name": "Alli สาวโลกสวย ไม่คิดว่าจะเจ็บป่วย",
+      "company": "360 Innovative",
+      "link": "https://www.youtube.com/watch?v=2UhYNrwgAq0",
+      "title": "alli",
+      "type": "Video",
+      "detail": "Flash Animation",
+      "year": "",
+      "img": "alli"
+    },{
+      "name": "JOBBKK Post Card",
+      "company": "JOBBKK.COM",
+      "link": "jobbkk-postcard.php",
+      "title": "jobbkk-postcard",
+      "type": "Print Ads.",
+      "detail": "Post Card",
+      "year": "",
+      "img": "jobbkk-postcard"
+    },{
+      "name": "Logo PBK Autoparts",
+      "company": "FREELANCE",
+      "link": "logo-pbk.php",
+      "title": "pbk",
+      "type": "Logo Design",
+      "detail": "Logo Design",
+      "year": "",
+      "img": "pbk"
+    },{
+      "name": "Logo Water Brand",
+      "company": "FREELANCE",
+      "link": "logo-naga.php",
+      "title": "naga",
+      "type": "Logo Design",
+      "detail": "Logo Design",
+      "year": "",
+      "img": "naga"
+    },{
+      "name": "NSM hallucinogenic plants",
+      "company": "360 Innovative",
+      "link": "http://www.nsm.or.th/other-service/297-online-science/e-exhibition/natural-history-plants/558-vegetation-scare.html",
+      "title": "vegetation-scare",
+      "type": "Interactive Learning Media",
+      "detail": "Flash Actionscript",
+      "year": "",
+      "img": "vegetation-scare"
+    }
+  ]
+}
