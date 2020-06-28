@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /template-parts
+Disallow: /test
+Disallow: /materials.php
+Disallow: /materials-grid.php
+Disallow: /materials-menu.php
+Disallow: /materials-table.php
+Disallow: /materials-text.php
+Disallow: /materials-form.php

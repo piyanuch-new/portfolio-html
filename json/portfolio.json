@@ -9,6 +9,15 @@
       "year": "",
       "img": "unilamp"
     },
+    {"name": "Jaras Restaurant",
+      "company": "Syndacast (THAILAND)",
+      "link": "http://demo-jaras.syndacast-hub.com/",
+      "title": "demo-jaras.syndacast-hub.com",
+      "type": "Web Paralax Responsive WordPress",
+      "detail": "HTML5 / SCSS / PHP / AJAX / JSON / jQuery / WordPress / MySQL",
+      "year": "",
+      "img": "jaras"
+    },
     {"name": "Syndacast (THAILAND)",
       "company": "Syndacast",
       "link": "https://www.syndacast.com/",
@@ -27,14 +36,15 @@
       "year": "",
       "img": "maya"
     },
-    {"name": "Jaras Restaurant",
-      "company": "Syndacast (THAILAND)",
-      "link": "http://demo-jaras.syndacast-hub.com/",
-      "title": "demo-jaras.syndacast-hub.com",
-      "type": "Web Paralax Responsive WordPress",
-      "detail": "HTML5 / SCSS / PHP / AJAX / JSON / jQuery / WordPress / MySQL",
+    {
+      "name": "Isuzu-tis",
+      "company": "DAI-ICHI KIKAKU (THAILAND)",
+      "link": "http://isuzu-tis.com",
+      "title": "isuzu-tis.com",
+      "type": "Web Responsive",
+      "detail": "HTML5 / CSS3 / jQuery / Bootstap",
       "year": "",
-      "img": "jaras"
+      "img": "isuzu-tis"
     },
     {
       "name": "Eastern Star PCL.",
@@ -45,36 +55,6 @@
       "detail": "HTML5 / CSS3 / PHP / jQuery / Bootstap",
       "year": "",
       "img": "estarpcls"
-    },
-    {
-      "name": "Sky-cliff",
-      "company": "IC Web",
-      "link": "http://www.sky-cliff.com/",
-      "title": "www.sky-cliff.com",
-      "type": "Web Responsive",
-      "detail": "HTML5 / CSS3 / PHP / jQuery / Bootstap",
-      "year": "",
-      "img": "skycliff"
-    },
-    {
-      "name": "Moonlight Resort",
-      "company": "FREELANCE",
-      "link": "http://www.moonlight-resort.com/",
-      "title": "www.moonlight-resort.coma",
-      "type": "Web Responsive",
-      "detail": "HTML5 / CSS3 / jQuery / Bootstap",
-      "year": "",
-      "img": "moonlight"
-    },
-    {
-      "name": "Isuzu-tis",
-      "company": "DAI-ICHI KIKAKU (THAILAND)",
-      "link": "http://isuzu-tis.com",
-      "title": "isuzu-tis.com",
-      "type": "Web Responsive",
-      "detail": "HTML5 / CSS3 / jQuery / Bootstap",
-      "year": "",
-      "img": "isuzu-tis"
     },
     {
       "name": "Wolf Coworking",
@@ -105,6 +85,26 @@
       "detail": "HTML5 / CSS3 / PHP / jQuery / Bootstap",
       "year": "",
       "img": "shopch"
+    },
+    {
+      "name": "Moonlight Resort",
+      "company": "FREELANCE",
+      "link": "http://www.moonlight-resort.com/",
+      "title": "www.moonlight-resort.coma",
+      "type": "Web Responsive",
+      "detail": "HTML5 / CSS3 / jQuery / Bootstap",
+      "year": "",
+      "img": "moonlight"
+    },
+    {
+      "name": "Sky-cliff",
+      "company": "IC Web",
+      "link": "http://www.sky-cliff.com/",
+      "title": "www.sky-cliff.com",
+      "type": "Web Responsive",
+      "detail": "HTML5 / CSS3 / PHP / jQuery / Bootstap",
+      "year": "",
+      "img": "skycliff"
     },
     {
       "name": "Scentimental",
